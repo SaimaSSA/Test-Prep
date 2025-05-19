@@ -7,6 +7,9 @@ p {
     color: navy;
 }
 .sale {
-    font-weight:bold;
+    font-weight: bold;
     background-color:aqua;
+}
+#sidenote_{
+    background-color: #dbd9d9; 
 }
